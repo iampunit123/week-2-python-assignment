@@ -7,7 +7,7 @@ my_list.append(20)
 my_list.append(30)
 my_list.append(40)
 
-# Step 3: Insert 15 at the second position (index 1)
+# Step 3: Insert 15 at the second position 
 my_list.insert(1, 15)
 
 # Step 4: Extend with another list [50, 60, 70]
@@ -21,5 +21,6 @@ my_list.sort()
 
 # Step 7: Find and print the index of 30
 index_30 = my_list.index(30)
-print("List:", my_list)
 print("Index of 30:", index_30)
+#the end
+
